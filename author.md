@@ -42,4 +42,4 @@ Someday, become one of the people who will be respected by engineers and present
 > Bachelor’s Degree Computer Engineering  
 > 4.19/4.5 GPA  
 > Year of Graduation: Feb 2018  
-
+ 
